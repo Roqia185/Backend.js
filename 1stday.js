@@ -1,0 +1,10 @@
+let name = "Batool";
+let email = "ghsdsj121@gmail.com";
+let password = "@326hjs#";
+const address = ["street", "city", "country"]; 
+var phoneNo = 1243456; 
+console.log(typeof name); 
+console.log(typeof email);
+console.log(typeof password);
+console.log(typeof address);
+console.log(typeof phoneNo);
